@@ -6,9 +6,9 @@ You can [play](http://www.ansuz.nl/pong/play/) the game at my [project website](
 
 ###Structure
 The project is divided into 3 parts:
-* [as2](as/)
-* [sql](sql/)
-* [website](website/)
+* [as2](https://github.com/wjwarren/pong/tree/master/as2)
+* [sql](https://github.com/wjwarren/pong/tree/master/sql/)
+* [website](https://github.com/wjwarren/pong/tree/master/website/)
 
 ####AS2
 All AS2 code and *.fla files needed to build the *.swf binaries.
