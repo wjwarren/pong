@@ -1,0 +1,18 @@
+﻿<flash_project name="Pong" version="1">
+    <project_folder name="AS sourcefiles" expanded="true">
+        <project_file path="./BallModel.as" filetype="as" />
+        <project_file path="./BallView.as" filetype="as" />
+        <project_file path="./HumanPaddleModel.as" filetype="as" />
+        <project_file path="./Level.as" filetype="as" />
+        <project_file path="./PaddleController.as" filetype="as" />
+        <project_file path="./PaddleModel.as" filetype="as" />
+        <project_file path="./PaddleView.as" filetype="as" />
+        <project_file path="./PlayerModel.as" filetype="as" />
+        <project_file path="./PlayerView.as" filetype="as" />
+        <project_file path="./Pong.as" filetype="as" />
+        <project_file path="./PongFieldView.as" filetype="as" />
+        <project_file path="./AIPaddleModel.as" filetype="as" />
+        <project_file path="./PongFieldModel.as" filetype="as" />
+    </project_folder>
+    <project_file path="./pong.fla" filetype="fla" profile="" def_file="true" />
+</flash_project>
