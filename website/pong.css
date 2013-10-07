@@ -1,0 +1,27 @@
+body {
+	background-color: #171717;
+	color: #00ff00;
+	font-family: Fixedsys;
+	text-align: justify;
+}
+
+a {
+	color: #00ff00;
+	text-decoration: underline;
+}
+
+IMG {
+	border-style: none;
+}
+
+.news {
+	text-align: justify;
+}
+
+P:first-letter {
+	font-size: x-large;
+}
+
+A:HOVER {
+	color: #bfff00;
+}
